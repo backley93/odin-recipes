@@ -1,0 +1,13 @@
+* {
+    background-color: rgb(200, 200, 200); 
+    font-family: Arial, sans-serif;
+}
+
+.title {
+    color: rgb(255,255,255);
+    font-size: 48px;
+    background-color: rgb(100,100,100);
+    padding: 20px;
+    border-style: inset;
+    border-color: rgb(255,255,255);
+}
