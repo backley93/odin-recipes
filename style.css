@@ -22,3 +22,16 @@ h1 {
 .recipes {
   list-style: none;
 }
+
+.recipeImage {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 33%;
+  border: solid 3px rgb(165, 125, 120);
+  margin-bottom: 50px;
+}
+
+.return {
+  text-align: center;
+}
