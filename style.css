@@ -1,0 +1,12 @@
+body {
+  background-color: rgb(225, 185, 180);
+}
+
+h1 {
+  text-align: center;
+  font-family: 'Arial', 'sans-serif';
+}
+
+.recipes {
+  list-style: none;
+}
